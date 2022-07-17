@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --fs-body: .9375rem;
+	--ff-main: font-family: 'Outfit', sans-serif;
+	--fw-400: 400;
+	--fw-700: 700;
+	--clr-card: hsl(0, 0%, 100%); 
+	--clr-text: hsl(212, 45%, 89%); 
+	--clr-body: hsl(220, 15%, 55%); 
+	--clr-header: hsl(218, 44%, 22%); 
+	--bp-mobile: 25em; 
+	--bp-mobile: 50em; 
+}
