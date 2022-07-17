@@ -84,3 +84,17 @@ img {
     font-size: 1.8rem;
   }
 }
+
+/* =====FOOTER===== */
+
+.attribution {
+  font-size: 1rem;
+  color: var(--very-dark-blue);
+  margin: 4em auto;
+  width: 90%;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
